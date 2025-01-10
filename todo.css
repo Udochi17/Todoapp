@@ -170,6 +170,9 @@ textarea {
     .container {
     width: max(300px, 100%);
 }
+    .input-container {
+    padding: 20px 20px;
+}
 
 .list-container {
     width: unset;
